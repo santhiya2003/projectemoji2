@@ -1,0 +1,166 @@
+.face{
+    height: 110px;
+    width: 110px;
+    background-color: pink;
+    border-radius: 100%;
+    position: relative;
+    box-shadow: 0px 0px 1px 1px black;
+    top: 200px;
+    left: 450px;
+}
+
+.reye{
+    height: 26px;
+    width: 26px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 30px;
+    left: 14px;
+
+}
+.reb{
+    height:12px;
+    width: 12px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 38px;
+    left:21px ;
+    padding-left: 1px;
+}
+
+
+
+.leye{
+    height: 26px;
+    width: 26px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top:30px ;
+    left:70px;
+}
+
+
+
+
+.leb{
+    height:12px;
+    width: 12px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 38px;
+    right:21px ;
+    padding-right: 1px;
+
+}
+
+
+
+/* .rch{
+    height:10px;
+    width:10px;
+    background-color:#FFBEA3;
+    border-radius: 100%;
+    position: absolute;
+    top:55px;
+    left: 75px;
+
+    
+
+}
+
+.lch{
+    height:10px;
+    width:10px;
+    background-color:#FFBEA3;
+    border-radius: 100%;
+    position: absolute;
+    top:55px;
+    left: 10px;
+
+} */
+
+
+
+
+
+
+.mouth{
+    height:25px ;
+    width:50px;
+    background-color: red;
+    border-radius: 50px 50px 50px ;
+    /* border-radius:50%; */
+    position: absolute;
+    top:65px; 
+    left:30px;
+    
+}
+
+
+.rtongue{
+    
+        height:15px;
+        width: 15px;
+        background-color: black;
+        border-radius: 100%;
+        position: absolute;
+        top: 6px;
+        left:30px ;
+        padding-left: 1px;
+
+} 
+.ltongue{
+    height:15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 6px;
+    left:7px ;
+    padding-left: 1px;
+}
+.reye:hover{ 
+
+    background-color:black ;
+    transform: scale(3);
+    overflow: hidden;
+}
+.rear{
+
+height:40px;
+width: 40px;
+background-color: pink;
+border-radius: 100%;
+position: absolute;
+top: 242px;
+left:621px ;
+padding-left: 1px;
+}
+  
+.lear{
+
+    height:40px;
+    width: 40px;
+    background-color: pink;
+    border-radius: 100%;
+    position: absolute;
+    top: 240px;
+    left:680px ;
+    padding-left: 1px;
+    }
+
+
+
+
+
+.container{
+    margin-top: 50px;
+    left: 80px;
+    top: 85px;
+    padding-left: 160px;
+    
+}
